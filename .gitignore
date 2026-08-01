@@ -5,3 +5,14 @@ settings.ini
 CMakeSettings.json
 out/
 .vs/
+*.sln
+*.slnx
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.csproj
+
+bin/
+**/bin/
+bin-int/
+**/bin-int/
